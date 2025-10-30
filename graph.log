@@ -1,0 +1,30 @@
+* 1ca6b1a Agregando archivo de prueba editado
+*   51217f3 Resolviendo conflicto con estaciones del año
+|\  
+| *   2b282c8 Arreglando conflictos del archivo estaciones
+| |\  
+* | \   b1f6afd Resolviendo conflicto en estaciones del año y fechas de inicio
+|\ \ \  
+| |/ /  
+|/| /   
+| |/    
+| * 900816c Agregando estaciones del año
+* | da3e075 Agregando estaciones del año con fecha de inicio
+|/  
+*   7b1bf96 Resolviendo conflicto merge main/html en el documento index.html
+|\  
+| * 6cf1593 Agregando index.js al index.html
+* | 432c613 Agregando style.css al index.html
+* |   2eb697c Merge branch 'js' into main
+|\ \  
+| * | dc1e8a4 Creando js
+* | | 247a409 Creando style.css
+| |/  
+|/|   
+* | fda7a35 Creando archivo index.html
+|/  
+* e6ced41 Ocultando archivos pdfs
+* 150ae39 Creando licencia al repositorio
+* fc27b0f Agregando mas contenido al README
+* bbcc875 Agregando contenido inicial al README
+* e710307 Primer commit

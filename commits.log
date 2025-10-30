@@ -1,0 +1,112 @@
+commit 1ca6b1a1f90b5a9e0b1f09f56ff19bff07f6a058
+Author: Ana Rotela <anarotela18@gmail.com>
+Date:   Wed Oct 29 10:23:19 2025 -0300
+
+    Agregando archivo de prueba editado
+
+commit 51217f3d32cbbbed64b59be85204dc9c1cc09fa4
+Merge: b1f6afd 2b282c8
+Author: Ana Rotela <anarotela18@gmail.com>
+Date:   Wed Oct 29 10:10:31 2025 -0300
+
+    Resolviendo conflicto con estaciones del año
+
+commit b1f6afd83346300c606435f2c6252b561c1e67f5
+Merge: da3e075 900816c
+Author: Ana Rotela <anarotela18@gmail.com>
+Date:   Wed Oct 29 09:59:49 2025 -0300
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 2b282c825303e9bfdf94fdab6dca27c819ab368f
+Merge: da3e075 900816c
+Author: Ana Rotela <anarotela18@gmail.com>
+Date:   Wed Oct 29 09:59:49 2025 -0300
+
+    Arreglando conflictos del archivo estaciones
+
+commit da3e07578564092ee76925c0241bd6fb7db5c169
+Author: Ana Rotela <anarotela18@gmail.com>
+Date:   Wed Oct 29 09:51:06 2025 -0300
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 900816c2a0cad91ce02d20ea6063775708260c33
+Author: Ana Rotela <anarotela18@gmail.com>
+Date:   Wed Oct 29 09:51:06 2025 -0300
+
+    Agregando estaciones del año
+
+commit 7b1bf969010a3f52fde8760ae45ac1aac067c3bf
+Merge: 432c613 6cf1593
+Author: Ana Rotela <anarotela18@gmail.com>
+Date:   Tue Oct 28 17:17:36 2025 -0300
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 6cf159308aa64b3e38ab522c34a4739a740a3647
+Author: Ana Rotela <anarotela18@gmail.com>
+Date:   Tue Oct 28 17:12:45 2025 -0300
+
+    Agregando index.js al index.html
+
+commit 432c613ef1c2a0965dcd7db43ad1b320736b2c20
+Author: Ana Rotela <anarotela18@gmail.com>
+Date:   Tue Oct 28 17:10:21 2025 -0300
+
+    Agregando style.css al index.html
+
+commit 2eb697c3defb1dd52a7655a5b073da55bde1e5d5
+Merge: 247a409 dc1e8a4
+Author: Ana Rotela <anarotela18@gmail.com>
+Date:   Tue Oct 28 16:57:04 2025 -0300
+
+    Merge branch 'js' into main
+
+commit dc1e8a4ff928a27a0f69f76cc940e62bde0eece9
+Author: Ana Rotela <anarotela18@gmail.com>
+Date:   Tue Oct 28 14:51:48 2025 -0300
+
+    Creando js
+
+commit 247a4097772a5eb8549a604fd3e4de6b34ef1771
+Author: Ana Rotela <anarotela18@gmail.com>
+Date:   Tue Oct 28 14:48:00 2025 -0300
+
+    Creando style.css
+
+commit fda7a35b9b2655519c7721e57d1ee656be1561b2
+Author: Ana Rotela <anarotela18@gmail.com>
+Date:   Tue Oct 28 14:39:37 2025 -0300
+
+    Creando archivo index.html
+
+commit e6ced4132cc2c654c1aa6cf4132cbb490fdb6db6
+Author: Ana Rotela <anarotela18@gmail.com>
+Date:   Tue Oct 28 14:06:37 2025 -0300
+
+    Ocultando archivos pdfs
+
+commit 150ae39b2598c0d28630f80d9301b11eece9b05b
+Author: Ana Rotela <anarotela18@gmail.com>
+Date:   Tue Oct 28 11:15:01 2025 -0300
+
+    Creando licencia al repositorio
+
+commit fc27b0ff81a075166cc4968095263d00539ca5a2
+Author: Ana Rotela <anarotela18@gmail.com>
+Date:   Tue Oct 28 11:09:52 2025 -0300
+
+    Agregando mas contenido al README
+
+commit bbcc8751814224a7f0082bf21b80f590bd06dc5d
+Author: Ana Rotela <anarotela18@gmail.com>
+Date:   Tue Oct 28 11:01:45 2025 -0300
+
+    Agregando contenido inicial al README
+
+commit e710307e309defccf70c5a56dc610a954ba7a50a
+Author: Ana Rotela <anarotela18@gmail.com>
+Date:   Tue Oct 28 10:57:26 2025 -0300
+
+    Primer commit
